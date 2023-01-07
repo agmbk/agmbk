@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div xmlns="http://www.w3.org/1999/xhtml">
+    <style>
+        .wrapper {
+            position: relative;
+            display: flex;
+            justify-content: center;
+            width: 100%;
+            padding: 1rem 0 0;
+            margin: 0;
+        }
+
+        .banner {
+            position: relative;
+            background-color: black;
+            padding: 0.5rem 0.4em;
+            color: white;
+            border: 2px solid #cfcfcf;
+            border-radius: 5px;
+            align-self: center;
+            font-family: "Verdana", sans-serif;
+            font-size: 9.5rem;
+            font-weight: bolder;
+            animation: rotate .95s ease-in-out infinite;
+        }
+
+        .banner:hover {
+            animation-duration: 40ms;
+        }
+
+        @keyframes rotate {
+            0% {
+                transform: scale(.96);
+            }
+            15% {
+                transform: scale(1);
+            }
+            30% {
+                transform: scale(.96);
+            }
+            45% {
+                transform: scale(1);
+            }
+
+            100% {
+                transform: scale(.96);
+            }
+        }
+    </style>
+    <div class="wrapper">
+        <span class="banner">AGMBK</span>
+    </div>
+</div>
+
+</body>
+</html>
