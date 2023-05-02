@@ -15,27 +15,33 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Python](https://img.shields.io/badge/Python-f2c43c?style=for-the-badge&logo=Python)](https://www.typescriptlang.org)
 [![PHP](https://img.shields.io/badge/PHP-7175aa?style=for-the-badge&logo=PHP&logoColor=white)](https://www.php.net)
-[![JAVA](https://img.shields.io/badge/JAVA-e11e23?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
-[![C](https://img.shields.io/badge/C-035493?style=for-the-badge&logo=C&logoColor=white)]()
+[![JAVA](https://img.shields.io/badge/JAVA-035493?style=for-the-badge&logo=JAVA&logoColor=white)](https://www.java.com)
 
 ### 🧰 Frontend
 
-[![NextJS](https://img.shields.io/badge/next_js-black.svg?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
+[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
+[![VueJS](https://img.shields.io/badge/VueJS-4fc08d?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org)
 
 ### 🎨 UI
 
 [![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 
 ### ⚙️ Backend
 
 [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+[![NestJS](https://img.shields.io/badge/NestJS-e0234e?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com)
 [![Express](https://img.shields.io/badge/Express.JS-404D59?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
+[![Fastify](https://img.shields.io/badge/Fastify-404D59?style=for-the-badge&logo=fastify&logoColor=white)](https://expressjs.com)
+[![Symphony](https://img.shields.io/badge/SYMFONY-222?style=for-the-badge&logo=symphony&logoColor=white)](https://symphony.com)
 [![Discord.JS](https://img.shields.io/badge/Discord.JS-5865f2?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.js.org)
 
 ### 🗄 Databases
 
 [![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 
 ### 🖥️ Environment
 
@@ -43,7 +49,15 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-dd4c0d?style=for-the-badge&logo=Ubuntu&logoColor=white)](https://ubuntu.com)
 [![Jetbrains](https://img.shields.io/badge/Jetbrains-3169dd?style=for-the-badge&logo=Jetbrains&logoColor=black)](https://www.jetbrains.com)
 [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-147dc7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
+
+### 🖌 Tools
+
 [![Git](https://img.shields.io/badge/GIT-e44c30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![Gitlab](https://img.shields.io/badge/Gitlab-292961?style=for-the-badge&logo=gitlab&logoColor)](https://gitlab.com)
+[![SourceTree](https://img.shields.io/badge/SourceTree-006f3f?style=for-the-badge&logo=sourcetree&logoColor=white)](https://www.sourcetreeapp.com)
+[![Postman](https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com)
+[![Trello](https://img.shields.io/badge/Trello-0079bf?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com)
 
 ### 🖌 Design
 
@@ -52,8 +66,7 @@
 
 ### 🧠 Currently learning
 
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
-[![Symphony](https://img.shields.io/badge/SYMFONY-222?style=for-the-badge&logo=symphony&logoColor=white)](https://symphony.com)
+...
 
 <br/>
 <div align="center">
