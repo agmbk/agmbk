@@ -47,11 +47,11 @@
 
 [![Windows](https://img.shields.io/badge/Windows-0072c9?logo=windows&logoColor=fff&style=for-the-badge&logoColor=white)](https://www.microsoft.com/fr-fr/windows/windows-11)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-dd4c0d?style=for-the-badge&logo=Ubuntu&logoColor=white)](https://ubuntu.com)
+
+### 🔧 Tools
+
 [![Jetbrains](https://img.shields.io/badge/Jetbrains-3169dd?style=for-the-badge&logo=Jetbrains&logoColor=black)](https://www.jetbrains.com)
 [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-147dc7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
-
-### 🖌 Tools
-
 [![Git](https://img.shields.io/badge/GIT-e44c30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![Gitlab](https://img.shields.io/badge/Gitlab-292961?style=for-the-badge&logo=gitlab&logoColor)](https://gitlab.com)
