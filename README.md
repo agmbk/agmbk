@@ -48,16 +48,23 @@
 [![Windows](https://img.shields.io/badge/Windows-0072c9?logo=windows&logoColor=fff&style=for-the-badge&logoColor=white)](https://www.microsoft.com/fr-fr/windows/windows-11)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-dd4c0d?style=for-the-badge&logo=Ubuntu&logoColor=white)](https://ubuntu.com)
 
-### 🔧 Tools
+### 🖥️ IDEs
 
 [![Jetbrains](https://img.shields.io/badge/Jetbrains-3169dd?style=for-the-badge&logo=Jetbrains&logoColor=black)](https://www.jetbrains.com)
+[![IntelliJ](https://img.shields.io/badge/IntelliJ-000?style=for-the-badge&logo=intellij%20idea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)](https://www.jetbrains.com/webstorm)
+[![PhpStorm](https://img.shields.io/badge/PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)](https://www.jetbrains.com/phpstorm)
 [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-147dc7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
+[![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3ddc84?style=for-the-badge&logo=android%20studio&logoColor=white)](https://developer.android.com/studio)
+
+### 🔧 Tools
+
 [![Git](https://img.shields.io/badge/GIT-e44c30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![Gitlab](https://img.shields.io/badge/Gitlab-292961?style=for-the-badge&logo=gitlab&logoColor)](https://gitlab.com)
+[![Trello](https://img.shields.io/badge/Trello-0079bf?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com)
 [![SourceTree](https://img.shields.io/badge/SourceTree-006f3f?style=for-the-badge&logo=sourcetree&logoColor=white)](https://www.sourcetreeapp.com)
 [![Postman](https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com)
-[![Trello](https://img.shields.io/badge/Trello-0079bf?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com)
 
 ### 🖌 Design
 
@@ -66,7 +73,7 @@
 
 ### 🧠 Currently learning
 
-...
+[... Improving skills]
 
 <br/>
 <div align="center">
