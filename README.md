@@ -35,6 +35,7 @@
 [![NestJS](https://img.shields.io/badge/NestJS-e0234e?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com)
 [![Express](https://img.shields.io/badge/Express.JS-404D59?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
 [![Fastify](https://img.shields.io/badge/Fastify-404D59?style=for-the-badge&logo=fastify&logoColor=white)](https://expressjs.com)
+[![NextJS](https://img.shields.io/badge/NextJS-000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
 [![Symphony](https://img.shields.io/badge/SYMFONY-222?style=for-the-badge&logo=symphony&logoColor=white)](https://symphony.com)
 [![Discord.JS](https://img.shields.io/badge/Discord.JS-5865f2?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.js.org)
 
@@ -74,7 +75,8 @@
 
 ### 🧠 Currently learning
 
-[... Improving skills]
+[![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
+[![WebAssembly](https://img.shields.io/badge/WebAssembly-654ff0?style=for-the-badge&logo=webassembly&logoColor=white)](https://webassembly.org)
 
 <br/>
 <div align="center">
