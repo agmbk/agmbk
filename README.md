@@ -63,7 +63,7 @@
 
 [![Git](https://img.shields.io/badge/GIT-e44c30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Gitlab](https://img.shields.io/badge/Gitlab-292961?style=for-the-badge&logo=gitlab&logoColor)](https://gitlab.com)
+[![Gitlab](https://img.shields.io/badge/Gitlab-292961?style=for-the-badge&logo=gitlab)](https://gitlab.com)
 [![Trello](https://img.shields.io/badge/Trello-0079bf?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com)
 [![SourceTree](https://img.shields.io/badge/SourceTree-006f3f?style=for-the-badge&logo=sourcetree&logoColor=white)](https://www.sourcetreeapp.com)
 [![Postman](https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com)
@@ -78,18 +78,24 @@
 [![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
 [![WebAssembly](https://img.shields.io/badge/WebAssembly-654ff0?style=for-the-badge&logo=webassembly&logoColor=white)](https://webassembly.org)
 
-## Wakatime
+## 📊 Wakatime
 
 [![wakatime](https://wakatime.com/badge/user/df77e9ef-829e-4b4c-88eb-cc116eb747e2.svg)](https://wakatime.com/@df77e9ef-829e-4b4c-88eb-cc116eb747e2)
+[![2023-16-05](https://img.shields.io/badge/16_may_2023_--_today-1081c2?style=flat&logo=wakatime&logoColor=white)](https://wakatime.com/@df77e9ef-829e-4b4c-88eb-cc116eb747e2)
 
 <img src="https://wakatime.com/share/@AGMBK/5dd63a6a-4ee0-40e2-98ab-6a2c11142737.svg" alt="wakatime">
 
 
-## Github Stats
+## 📊 GitHub
+
 
 <br/>
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=agmbk&show_icons=true&line_height=40&count_private=true&theme=dark)](https://github.com/agmbk) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agmbk&show_icons=true&theme=dark&locale=en)](https://github.com/agmbk)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=agmbk&theme=dark)](https://git.io/streak-stats)
+
 </div>
+<br/>
+
