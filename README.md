@@ -81,7 +81,7 @@
 ## 📊 Wakatime
 
 [![wakatime](https://wakatime.com/badge/user/df77e9ef-829e-4b4c-88eb-cc116eb747e2.svg)](https://wakatime.com/@df77e9ef-829e-4b4c-88eb-cc116eb747e2)
-[![wakatime since](https://img.shields.io/badge/16_may_2023_--_today-blue)](https://wakatime.com/@df77e9ef-829e-4b4c-88eb-cc116eb747e2)
+[![wakatime since](https://img.shields.io/badge/since_16_may_2023-blue)](https://wakatime.com/@df77e9ef-829e-4b4c-88eb-cc116eb747e2)
 
 <img src="https://wakatime.com/share/@AGMBK/5dd63a6a-4ee0-40e2-98ab-6a2c11142737.svg" alt="wakatime">
 
