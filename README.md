@@ -78,6 +78,15 @@
 [![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
 [![WebAssembly](https://img.shields.io/badge/WebAssembly-654ff0?style=for-the-badge&logo=webassembly&logoColor=white)](https://webassembly.org)
 
+## Wakatime
+
+[![wakatime](https://wakatime.com/badge/user/df77e9ef-829e-4b4c-88eb-cc116eb747e2.svg)](https://wakatime.com/@df77e9ef-829e-4b4c-88eb-cc116eb747e2)
+
+<img src="https://wakatime.com/share/@AGMBK/5dd63a6a-4ee0-40e2-98ab-6a2c11142737.svg" alt="wakatime">
+
+
+## Github Stats
+
 <br/>
 <div align="center">
 

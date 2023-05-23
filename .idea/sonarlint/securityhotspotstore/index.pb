@@ -7,8 +7,6 @@ Q.idea/sonarlint/securityhotspotstore/3/9/39f58d1060d4f563113602dfdb0f0df6771a7a
 Q.idea/sonarlint/securityhotspotstore/f/9/f977b0f2427ff6f7b24d7b9fddd6db9ed17716f3,e\9\e99a933091c304558ecf70266dbfa60eb0d47e8b
 w
 G.idea/sonarlint/issuestore/3/9/39f58d1060d4f563113602dfdb0f0df6771a7a34,f\f\ff7d921c6743f3160c190becb593699c30cc175c
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302

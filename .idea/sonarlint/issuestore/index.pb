@@ -14,5 +14,3 @@ G.idea/sonarlint/issuestore/3/9/39f58d1060d4f563113602dfdb0f0df6771a7a34,f\f\ff
 assets/test.html,3\9\39f58d1060d4f563113602dfdb0f0df6771a7a34
 A
 assets/banner.svg,f\9\f977b0f2427ff6f7b24d7b9fddd6db9ed17716f3
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
