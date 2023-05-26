@@ -45,6 +45,16 @@
 [![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 
+### 🌐 Web
+
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-f6821f?style=for-the-badge&logo=cloudflare&logoColor=white)](https://www.cloudflare.com)
+
+### 📱 Mobile
+
+[![React Native](https://img.shields.io/badge/React_Native-61dafb?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev)
+[![Android](https://img.shields.io/badge/Android-3ddc84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com)
+
 ### 🖥️ Environment
 
 [![Windows](https://img.shields.io/badge/Windows-0072c9?logo=windows&logoColor=fff&style=for-the-badge&logoColor=white)](https://www.microsoft.com/fr-fr/windows/windows-11)
@@ -67,6 +77,7 @@
 [![Trello](https://img.shields.io/badge/Trello-0079bf?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com)
 [![SourceTree](https://img.shields.io/badge/SourceTree-006f3f?style=for-the-badge&logo=sourcetree&logoColor=white)](https://www.sourcetreeapp.com)
 [![Postman](https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com)
+[![Figma](https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com)
 
 ### 🖌 Design
 
@@ -77,6 +88,7 @@
 
 [![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org)
 [![WebAssembly](https://img.shields.io/badge/Web_Assembly-654ff0?style=for-the-badge&logo=webassembly&logoColor=white)](https://webassembly.org)
+[![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 
 ## 📊 Wakatime
 
